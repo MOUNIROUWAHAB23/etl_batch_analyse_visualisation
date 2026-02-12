@@ -24,6 +24,10 @@ et fournir un dashboard BI interactif.
 - Filtres dynamiques par période
 
 ##  Dashboard
+![](work/screenshots/dashboard.png)
+![](work/screenshots/filtre_période.png)
+
+
 
 ## Améliorations futures
 - Orchestration avec Airflow
