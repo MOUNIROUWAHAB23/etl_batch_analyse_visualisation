@@ -4,7 +4,7 @@
 Construire un pipeline ETL batch pour analyser les ventes
 et fournir un dashboard BI interactif.
 
-## 🛠️ Stack technique
+## Stack technique
 - PostgreSQL
 - SQL
 - Python
